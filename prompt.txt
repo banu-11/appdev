@@ -1,0 +1,1 @@
+Invoke-WebRequest "https://text.pollinations.ai/Generate%20a%20COMPLETE%20Flutter%20main.dart%20file%20for%20a%20Gestures%20Showing%20App%20.Return%20ONLY%20pure%20dart%20code.%20DO%20NOT%20INCLUDE%20explanations.%20.DO%20NOT%20INCLUDE%20markdowns.%20.DO%20NOT%20INCLUDE%20comments.%20RETURN%20full%20working%20code." -OutFile lib/main.dart
